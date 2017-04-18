@@ -1,7 +1,10 @@
-# test coverage for  [xml2json (v0.11.0)](https://github.com/buglabs/node-xml2json#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-xml2json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-xml2json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-xml2json.svg)](https://travis-ci.org/npmtest/node-npmtest-xml2json)
+# npmtest-xml2json
+
+#### test coverage for  [xml2json (v0.11.0)](https://github.com/buglabs/node-xml2json#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-xml2json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-xml2json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-xml2json.svg)](https://travis-ci.org/npmtest/node-npmtest-xml2json)
+
 #### Converts xml to json and vice-versa, using node-expat.
 
-[![NPM](https://nodei.co/npm/xml2json.png?downloads=true)](https://www.npmjs.com/package/xml2json)
+[![NPM](https://nodei.co/npm/xml2json.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/xml2json)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-xml2json/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-xml2json/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-xml2json/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-xml2json/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-xml2json/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-xml2json/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-xml2json/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-xml2json/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-xml2json/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-xml2json/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-xml2json%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-xml2json/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-xml2json/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-xml2json/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-xml2json/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-xml2json%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-xml2json/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-xml2json/build/test-report.html](https://npmtest.github.io/node-npmtest-xml2json/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-xml2json/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-xml2json/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-xml2json/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-xml2json/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-xml2json/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-xml2json/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-xml2json/build/screenCapture.npmPackageListing.svg)
 
@@ -121,17 +130,14 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "buglabs",
-            "email": "camilo@buglabs.net"
+            "name": "buglabs"
         },
         {
-            "name": "c4milo",
-            "email": "camilo.aguilar@gmail.com"
+            "name": "c4milo"
         }
     ],
     "name": "xml2json",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/buglabs/node-xml2json.git"
